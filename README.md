@@ -12,5 +12,7 @@ Just feel free
 
 ## Deployment
 
+buy a domain and copy
+
 ## Sourcing
 From gi hub
